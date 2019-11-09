@@ -96,7 +96,7 @@
         </collectionViewCell>
     </objects>
     <resources>
-        <image name="ShopCell" width="112" height="150"/>
+        <image name="ShopCell" width="112.5" height="150"/>
         <image name="shoe1" width="250" height="250"/>
     </resources>
 </document>
